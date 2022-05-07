@@ -1,1 +1,2 @@
-Hello Micronauts!
+Hello Micronauts! 
+Checking git commit without -m
